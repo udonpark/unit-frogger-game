@@ -4,6 +4,10 @@
 This is Frogger Game implemented using TypeScript and Pure Programming.
 It is part of the University unit, Programming Paradigm
 Running the index.html file in /dist starts the game.
+The frog moves up, right, left and right according to the arrow key, and its
+objective is to reach the goal without hitting obstacles, river and car.
+
+
 ![image info](./FroggerImage.png)
 
 All of the changes, code, and game files should be in the src folder.
