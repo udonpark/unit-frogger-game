@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "target": "ES6",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "baseUrl": ".",
+    "incremental": true,
+    "watch": true,
+    "noImplicitAny": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*", "webpack.config.ts"],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  }
+}

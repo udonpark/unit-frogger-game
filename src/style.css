@@ -1,0 +1,59 @@
+BODY,
+H2,
+H3,
+H4,
+H5,
+H6,
+TH,
+TD {
+    font-family: arial, helvetica, sans-serif;
+}
+
+H1 {
+    font-size: 38px;
+    font-family: arial, helvetica, sans-serif;
+}
+
+svg {
+    background-color: rgb(41, 41, 36);
+}
+.plank{
+    fill: brown;
+}
+
+.car{
+    fill: pink;
+}
+
+.wall{
+    fill:black;
+}
+
+.goal{
+    fill:gold;
+}
+
+.frog{
+    fill: green;
+}
+#gamemessage{
+    fill:rgb(13, 5, 106);
+    font-size: 28;
+    border-width: 2px;
+    text-align: center;
+}
+
+#score{
+    fill: black;
+    font-size: 20;
+}
+
+p.highlight {
+    color: red;
+}
+
+/* .showtext, .goal, .river, .safezone, .ground{
+    border-color: black;
+    border-width: 2px;
+} */
+
