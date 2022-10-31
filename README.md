@@ -2,6 +2,7 @@
 
 
 This is Frogger Game implemented using TypeScript and Pure Programming.
+It is part of the University unit, Programming Paradigm
 Running the index.html file in /dist starts the game.
 ![image info](./FroggerImage.png)
 
