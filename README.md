@@ -1,6 +1,12 @@
-# FIT2102 Assignment 1
+# Frogger Game
 
-All of your changes, code, and game files should be in the src folder.
+
+This is Frogger Game implemented using TypeScript and Pure Programming.
+Running the index.html file in /dist starts the game.
+![image info](./FroggerImage.png)
+
+All of the changes, code, and game files should be in the src folder.
+
 
 ## Development
 
